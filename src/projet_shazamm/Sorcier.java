@@ -9,7 +9,6 @@ public class Sorcier {
     
     public Sorcier(String nom){
         this.nom=nom;
-        redfyhtfu
     }
     
     public int miser(){
