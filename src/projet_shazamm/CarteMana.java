@@ -53,5 +53,3 @@ public class CarteMana extends CarteSortilege {//toutes les cartes qui impact a 
         }
     }
 }
-        
-    
