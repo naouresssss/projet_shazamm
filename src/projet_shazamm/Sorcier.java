@@ -6,9 +6,11 @@ public class Sorcier {
     int mana=50;
     String nom;
     int mise=0;
+    
     public Sorcier(String nom){
         this.nom=nom;
     }
+    
     public int miser(){
 
        while(mise<=0 || mise>mana){
