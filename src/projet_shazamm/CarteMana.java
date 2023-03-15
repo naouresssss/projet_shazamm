@@ -1,5 +1,5 @@
 package projet_shazamm;
-
+vhvh
 import java.util.Scanner;
 
 public class CarteMana extends CarteSortilege {//toutes les cartes qui impact a mana du joueur
